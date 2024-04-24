@@ -9,5 +9,5 @@ p.s. "Don't drink and drive"
 <br/>
 Посвящается междунедельному фестивалю пива 🍺 (с)
 <br/>
-in spirit:
+in spirit.by:
 https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024
