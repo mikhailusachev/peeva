@@ -12,5 +12,9 @@ p.s. "Don't drink and drive"
 in spirit.by:
 https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024
 <br/>
+<br/>
 ya->u == sla(peeva)
 * code formatting & signals https://github.com/dprint/dprint/blob/main/docs/overview.md
+* ide kakoune (ranked by composability & build requirement) https://github.com/mawww/kakoune/tree/master?tab=readme-ov-file#building
+  ** helix (ranked by laptop battery life & prettier) https://github.com/helix-editor/rust-toolchain/blob/master/.eslintrc.json
+  ** vscode (ranked by compatibility) 
