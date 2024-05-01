@@ -10,7 +10,7 @@ p.s. "Don't drink and drive"
 Посвящается междунедельному фестивалю пива 🍺 (с)
 <br/>
 in spirit.by:
-https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024
+* https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024 => g('d'julz tripherie')
 <br/>
 <br/>
 ya->u == sla(peeva)
