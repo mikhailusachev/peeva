@@ -11,3 +11,6 @@ p.s. "Don't drink and drive"
 <br/>
 in spirit.by:
 https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024
+<br/>
+ya->u == sla(peeva)
+* code formatting & signals https://github.com/dprint/dprint/blob/main/docs/overview.md
