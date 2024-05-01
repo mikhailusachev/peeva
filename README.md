@@ -7,7 +7,9 @@ An euphoretic attempt to cross-communicate following in the most cases
 
 p.s. "Don't drink and drive"
 <br/>
-Посвящается междунедельному фестивалю пива 🍺 (с)
+Посвящается
+* междунедельному фестивалю пива 🍺 (с)
+* https://en.wikipedia.org/wiki/Andrei_Tropillo (sad wed + https://www.youtube.com/watch?v=sH-wvOOIRnE)
 <br/>
 in spirit.by:
 * https://www.nts.live/shows/moxie/episodes/moxie-17th-april-2024 => g('d'julz tripherie')
